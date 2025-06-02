@@ -65,7 +65,7 @@ public async Task<IActionResult> Register(RegisterViewModel model)
 }
 
 
-    // Login (GET)
+    
     public IActionResult Login() => View();
 
     // Login (POST)

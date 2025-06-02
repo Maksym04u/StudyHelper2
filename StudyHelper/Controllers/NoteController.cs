@@ -60,7 +60,7 @@ namespace StudyApp.Controllers
             return View(notes);
         }
 
-        // GET: /Note/Create
+        
         [HttpGet]
         public IActionResult Create()
         {
